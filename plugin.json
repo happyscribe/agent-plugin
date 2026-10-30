@@ -10,5 +10,6 @@
   },
   "homepage": "https://help.happyscribe.com/en/articles/13927840-what-is-happyscribe-mcp",
   "license": "MIT",
+  "repository": "https://github.com/happyscribe/agent-plugin",
   "keywords": ["transcription", "meeting-notes", "notetaker", "subtitles", "speech-to-text", "quotes"]
 }
