@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" alt="HappyScribe" width="96"></p>
+
 # HappyScribe Agent Plugin
 
 Portable [Agent Plugin](https://agent-plugins.org) for HappyScribe: connects your AI agent to the official HappyScribe MCP server and adds three ready-made skills.
