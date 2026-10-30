@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "happyscribe",
+  "version": "1.0.0",
+  "description": "Transcribe audio and video, and search, summarize and quote-check your meeting notes and transcripts with HappyScribe.",
+  "author": {
+    "name": "HappyScribe",
+    "email": "support@happyscribe.com",
+    "url": "https://www.happyscribe.com"
+  },
+  "homepage": "https://help.happyscribe.com/en/articles/13927840-what-is-happyscribe-mcp",
+  "license": "MIT",
+  "keywords": ["transcription", "meeting-notes", "notetaker", "subtitles", "speech-to-text", "quotes"]
+}
